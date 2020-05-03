@@ -1,0 +1,6 @@
+This is a very Basic Text Editor built using Tkinter Module in Python.
+It provides basic features like:- 
+1. Creating NEW Document. 
+2. Opening an Existing Document. 
+3. Saving the Newly created Document. 
+4. Editing features like Cut, Copy and Paste. 

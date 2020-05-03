@@ -1,0 +1,4 @@
+PyAutoGUI==0.9.50
+PyObjc (for Mac only) 
+PyObjc-Core (for Mac only) 
+
